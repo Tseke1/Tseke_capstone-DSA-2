@@ -53,7 +53,8 @@ The data set was collected from excel which contained the data that required som
 
 ## Review Volume by Product Category
 
-INSERT NO 3
+<img width="617" height="458" alt="image" src="https://github.com/user-attachments/assets/97323fc6-fabb-41f8-8873-1b099929432f" />
+
 #### Insight: 
 The Pivot Table reveals that certain product categories dominate in review volume, indicating higher customer engagement and possibly stronger sales performance.
 -	Top-reviewed categories (e.g. Electronics, Computer &Accessories And Home & Kitchen) account for the majority of total reviews.
@@ -63,7 +64,8 @@ Categories with the most reviews tend to have greater visibility and buyer trust
 
 ## Category: Average Actual Price VS Discounted Price
 
-INSERT NO 5
+<img width="634" height="372" alt="image" src="https://github.com/user-attachments/assets/107572cf-4b09-48f1-85f3-559aa192ca36" />
+
 #### Insight
 Discounts are a major sales strategy on Amazon.
 -	Average discount percentage -60% (Most products were reviewed to be sold far below their actual price).
@@ -72,8 +74,9 @@ Discounts are a major sales strategy on Amazon.
 This is not a coincident that Amazon and its sellers rely heavily on customer perceived value. With cutting down their prices dramatically, they gain access into psychology of the buyers hence triggering FOMO and urgency
 
 ## Rating Realities
+<img width="614" height="372" alt="image" src="https://github.com/user-attachments/assets/c63b0e54-7ae3-496d-8c58-52235901514a" />
+<img width="632" height="466" alt="image" src="https://github.com/user-attachments/assets/94a2f043-e5d0-4f89-be90-efb3a54220aa" />
 
-INSERT 6 & 8
 #### Insight
 Ratings offer social proof. But here’s what stands out:
 •	The Average rating is 4.0- 4.2, but some products records thousands of rating boosting their visibility.
@@ -83,7 +86,8 @@ Ratings offer social proof. But here’s what stands out:
 
 ## The Relationship between Rating and Discount
 
-INSERT NO 11
+<img width="616" height="464" alt="image" src="https://github.com/user-attachments/assets/2d4e9a4e-b23d-4d95-b8ad-1e7f666b024a" />
+
 #### Insight
 Often times we assume that the higher-rated products with full-price are “worth it,” but the data suggests a more. 
 Here is what was discovered:
@@ -97,8 +101,8 @@ Discounting may be used as a strategic lift for:
 -	Improving social proof: more buyers = more reviews = algorithm boost.
 
 ## Categories with the Highest Average Discounts
+<img width="636" height="454" alt="image" src="https://github.com/user-attachments/assets/40816787-8f35-4a67-9f8d-35405510a004" />
 
-INSERT NO 13
 #### Insight
 The data shows that Home Improvement, Computer &Accessories And Health & Personal Care are the top three categories offering the highest average discounts, with Home Improvement leading at 57.50%
 These deep discounts suggest:
