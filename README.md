@@ -41,3 +41,22 @@ The data set was collected from excel which contained the data that required som
 -	Creating a pivot table
 -	Analyze how pricing, discounting, and reviews impact product success on Amazon
 -	Visualization illustration was achieved in the dashboard section.
+
+### Exploratory Analysis Tasks
+ This involved exploring of the data to answer some of the questions about the given dataset
+•	What is the total number of reviews per category? (3.D Pie chart)
+•	What is the average actual price Vs the discounted price by category? (Pie chart)
+•	Which products have the highest number of reviews? (Clustered column 3.D)
+•	What is the distribution of product ratings? (Line with Markers)
+•	How does the rating relate to the level of discount? (Clustered Bar chart)
+•	Which categories have products with the highest discounts? (3.D column)
+
+## Review Volume by Product Category
+
+
+#### Insight: 
+The Pivot Table reveals that certain product categories dominate in review volume, indicating higher customer engagement and possibly stronger sales performance.
+-	Top-reviewed categories (e.g. Electronics, Computer &Accessories And Home & Kitchen) account for the majority of total reviews.
+-	Categories like Heath & Personal Care, Toys & Games And Home Improvement Products may have fewer total reviews which suggest lower demand or niche from customers.
+#### Interpretation
+Categories with the most reviews tend to have greater visibility and buyer trust. These are likely priority areas for competitive analysis and promotional spend, 
