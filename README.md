@@ -53,10 +53,57 @@ The data set was collected from excel which contained the data that required som
 
 ## Review Volume by Product Category
 
-
+INSERT NO 3
 #### Insight: 
 The Pivot Table reveals that certain product categories dominate in review volume, indicating higher customer engagement and possibly stronger sales performance.
 -	Top-reviewed categories (e.g. Electronics, Computer &Accessories And Home & Kitchen) account for the majority of total reviews.
 -	Categories like Heath & Personal Care, Toys & Games And Home Improvement Products may have fewer total reviews which suggest lower demand or niche from customers.
 #### Interpretation
 Categories with the most reviews tend to have greater visibility and buyer trust. These are likely priority areas for competitive analysis and promotional spend, 
+
+## Category: Average Actual Price VS Discounted Price
+
+INSERT NO 5
+#### Insight
+Discounts are a major sales strategy on Amazon.
+-	Average discount percentage -60% (Most products were reviewed to be sold far below their actual price).
+-	Over 40% of the products had a discount of ≥ 50%, flagged clearly in the column Product with discount ≥50%.
+#### Interpretation
+This is not a coincident that Amazon and its sellers rely heavily on customer perceived value. With cutting down their prices dramatically, they gain access into psychology of the buyers hence triggering FOMO and urgency
+
+## Rating Realities
+
+INSERT 6 & 8
+#### Insight
+Ratings offer social proof. But here’s what stands out:
+•	The Average rating is 4.0- 4.2, but some products records thousands of rating boosting their visibility.
+•	The column Top 5 by Rating and Review combines rating and review count for a composite value.
+#### Interpretation
+ It’s not just about having a high rating. A product with 4.0 and 10,000 reviews beats a product with 4.9 and 50 reviews in visibility. 
+
+## The Relationship between Rating and Discount
+
+INSERT NO 11
+#### Insight
+Often times we assume that the higher-rated products with full-price are “worth it,” but the data suggests a more. 
+Here is what was discovered:
+-	Many highly rated products with (4.5+) still offer significant discounts (20–40%).
+-	However, extreme discounts (50% or more) are more common among moderately rated products (3.5–4.2).
+- 	Products with both a high rating and a high review volume rarely have the biggest discounts, because they already rank well organically.
+#### Interpretation:
+Discounting may be used as a strategic lift for:
+-	Boosting visibility of mid-rated products (not bad, not excellent).
+-	Clearing stock or staying competitive in crowded categories
+-	Improving social proof: more buyers = more reviews = algorithm boost.
+
+## Categories with the Highest Average Discounts
+
+INSERT NO 13
+#### Insight
+The data shows that Home Improvement, Computer &Accessories And Health & Personal Care are the top three categories offering the highest average discounts, with Home Improvement leading at 57.50%
+These deep discounts suggest:
+-	Highly competitive markets where prices are lowered to gain visibility and increase conversion rate.
+-	Possible strategies to clear stock, attract new customers, or boost product rankings.
+  #### Interpretation
+High discount does not equate to low value. In categories like Home Improvement and Computer & Accessories, discount percentage pricing is a strategy, not just a clearance tactic. These segments likely rely on volume, competition, and promotional cycles to drive sales.
+-	Consumers who shop in these categories may be more price-sensitive or are driven by deal-hunting behavior.
