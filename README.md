@@ -43,13 +43,13 @@ The data set was collected from excel which contained the data that required som
 -	Visualization illustration was achieved in the dashboard section.
 
 ### Exploratory Analysis Tasks
- This involved exploring of the data to answer some of the questions about the given dataset
-•	What is the total number of reviews per category? (3.D Pie chart)
-•	What is the average actual price Vs the discounted price by category? (Pie chart)
-•	Which products have the highest number of reviews? (Clustered column 3.D)
-•	What is the distribution of product ratings? (Line with Markers)
-•	How does the rating relate to the level of discount? (Clustered Bar chart)
-•	Which categories have products with the highest discounts? (3.D column)
+ This involved exploring of the data to answer some of the questions about the given dataset;
+- What is the total number of reviews per category? (3.D Pie chart)
+- What is the average actual price Vs the discounted price by category? (Pie chart)
+- Which products have the highest number of reviews? (Clustered column 3.D)
+- What is the distribution of product ratings? (Line with Markers)
+- How does the rating relate to the level of discount? (Clustered Bar chart)
+- Which categories have products with the highest discounts? (3.D column)
 
 ## Review Volume by Product Category
 
